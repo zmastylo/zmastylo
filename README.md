@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:  
 - 💡 Passionate Technologist with a love for crafting scalable, efficient, and robust software systems.  
-- 🧑‍🎨 A polyglot developer skilled in **C, C++, Java, C#, and Python**.  
+- 🧑‍🎨 A polyglot skilled in **C, C++, Java, C#, and Python**.  
 - 🌟 Continuously exploring new technologies to push the boundaries of innovation.  
 
 ---
