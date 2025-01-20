@@ -1,8 +1,24 @@
-- 👋 Hi, my name is Zbigniew.
-- 👀 I’m a polyglot; have been coding C, C++, Java, C#, and Python.
-- 🌱 I’m currently gathering code I wrote and making repos.
-- 💞️ I’m looking to collaborate on some cool projects: Python and C++ based.
-- 📫 How to reach me - zmastylo@gmail.com
+👋 Hello, World! I’m Zbigniew
+
+👨‍💻 About Me:
+	•	💡 Passionate Technologist with a love for crafting scalable, efficient, and robust software systems.
+	•	🧑‍🎨 A polyglot developer skilled in C, C++, Java, C#, and Python.
+	•	🌟 Continuously exploring new technologies to push the boundaries of innovation.
+
+🌱 What I’m Working On:
+	•	🚀 Currently developing [https://github.com/zbytealchemy/zephcast](https://github.com/zbytealchemy/zephcast):
+A powerful, extensible messaging library supporting Kafka, RabbitMQ, and Redis, designed to simplify messaging workflows.
+
+💞️ Let’s Collaborate:
+	•	🤝 Open to collaborating on cutting-edge projects in Python and C++, particularly in:
+	•	Advanced messaging systems
+	•	AI/ML tools and frameworks
+	•	High-performance computing
+	•	Open-source innovations
+
+📬 Reach Out:
+	•	📧 Email: zmastylo@gmail.com
+	•	🌐 GitHub: Explore my repositories and connect—I’m always excited to discuss ideas and opportunities!
 
 <!---
 zmastylo/zmastylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
