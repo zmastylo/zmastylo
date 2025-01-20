@@ -7,7 +7,7 @@
 
 
 🌱 What I’m Working On:
-	•	🚀 Currently developing [ZephCast](https://github.com/zbytealchemy/zephcast):
+	•	🚀 Currently developing [**ZephCast**](https://github.com/zbytealchemy/zephcast):
 A powerful, extensible messaging library supporting Kafka, RabbitMQ, and Redis, designed to simplify messaging workflows.
 
 💞️ Let’s Collaborate:
